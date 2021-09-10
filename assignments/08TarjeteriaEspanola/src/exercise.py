@@ -17,5 +17,6 @@ def main():
 
     print("El número máximo de tarjetas que se pueden hacer es:",r)
 
+
 if __name__=='__main__':
     main()
